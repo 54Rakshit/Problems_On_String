@@ -1,3 +1,10 @@
+/*Accept String from user and calculate Length of String
+
+Input= abcd ef        Output=The length of the String is: 7
+Input= ABCG           Output=The length of the String is: 4
+
+*/
+
 #include<stdio.h>
 
 int Length_String(char*str)
